@@ -33,9 +33,4 @@ public class Application {
         }
         return arr[indexOfMax];
     }
-
-
-
-
-
 }
